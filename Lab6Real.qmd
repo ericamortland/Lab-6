@@ -1,10 +1,12 @@
 ---
-title: "Lab 6: Machine Learning in Hydrology"
-author: "Erica. Mortland"
-date: "2025-04-04"
-format: html
-execute: 
-  echo: true
+project:
+  title: "lab6"
+  author: Erica Mortland
+  output-dir: docs
+  type: website
+format: 
+  html:
+    self-contained: true
 ---
 
 ## Lab Set Up
